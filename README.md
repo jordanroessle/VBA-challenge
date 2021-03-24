@@ -1,6 +1,7 @@
 # VBA-challenge
 
 
-Three scripts are including: one for the basic assignment, one for the first portion of the bonus, and lastly one for iterating the script from the bonus in each worksheet.
+Three scripts are included:
+One for the basic assignment, one for the first portion of the bonus, and one for iterating the bonus script in each worksheet.
 
-Results of the last script, which iterates every worksheet, is included in the resultImages directory. 
+Results of the last script, which iterates every worksheet, are included in the resultImages directory. 
